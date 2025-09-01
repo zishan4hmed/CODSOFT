@@ -36,10 +36,6 @@ A simple and futuristic calculator built using HTML, CSS, and JavaScript.
 - Responsive layout using CSS Grid
 - Interactive buttons and result display
 
-📁 Folder: /Level 3 Task 2
-### 🔹 Task 2. Project Management Tool (Mini Web App)
-A functional mini-project management tool created with React and Node.js (optional).
-
 *Features:*
 - Create and manage projects
 - Assign tasks and set deadlines
