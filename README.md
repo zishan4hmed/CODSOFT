@@ -35,12 +35,7 @@ A simple and futuristic calculator built using HTML, CSS, and JavaScript.
 - Basic arithmetic operations (add, subtract, multiply, divide)
 - Responsive layout using CSS Grid
 - Interactive buttons and result display
-
-*Features:*
-- Create and manage projects
-- Assign tasks and set deadlines
-- Track progress visually
-
+- 
 ---
 
 ## 🚀 Technologies Used
